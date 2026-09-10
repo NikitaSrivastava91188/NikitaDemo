@@ -16,6 +16,9 @@ print("hii")
         if (name == "Nikita"){
             print("Nikita Srivastava")
         }
+        else{
+            print("nothing")
+        }
         
     }
 
