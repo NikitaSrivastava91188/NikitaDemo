@@ -10,6 +10,7 @@ class ViewController: UIViewController {
 print("hii")
         print("hellooo")
         print("hiii")
+        print("nikita")
     }
 
 
